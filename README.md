@@ -1,2 +1,2 @@
 # Python
-web crawler python, web Api flash...
+Web crawler python, web Api flash, processamento de dados com pandas.
